@@ -1,0 +1,44 @@
+* {
+    background-color: rgb(220, 234, 238);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+
+.profile_img img {
+    padding: auto;
+    border-radius: 3rem;
+    position: relative; left: 648px; top: 0px;
+}
+
+.career {
+    text-align: center;
+}
+
+.about_me h2 {
+    font-weight: bold;
+    text-align: center;
+}
+
+.about_me p {
+    font-weight: lighter;
+}
+
+.Skills {
+    text-align: center;
+}
+
+.LinkedIn img {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+}
+
+.name h2 {
+    text-align: center;
+}
+
+
+.Experiencia {
+    text-align: center;
+}
